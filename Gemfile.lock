@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    httpi (2.0.2)
+      rack
+    nokogiri (1.5.9)
+    rack (1.5.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  httpi
+  nokogiri
